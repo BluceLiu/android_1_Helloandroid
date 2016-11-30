@@ -11,11 +11,17 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/app_name2"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.helloandroid.MainActivity"
             android:label="@string/app_name" >
+           
+        </activity>
+        <!-- BMI体重计算器配置 -->
+        <activity
+            android:name="com.example.helloandroid.BMIActivity"
+            android:label="@string/app_name2" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

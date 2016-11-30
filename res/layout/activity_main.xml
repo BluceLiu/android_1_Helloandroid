@@ -10,21 +10,21 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@+strings/hello_string" />
+        android:text="@+string/hello_string" />
 
     <CheckBox
         android:id="@+id/checkBox1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@+strings/hello_sex" />
+        android:text="@+string/hello_sex" />
 
     <CheckBox
         android:id="@+id/checkBox2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        android:text="@+strings/hello_sex2" />
+        android:text="@+string/hello_sex2" />
 
 </FrameLayout>
 

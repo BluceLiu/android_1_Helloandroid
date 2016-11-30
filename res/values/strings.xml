@@ -7,6 +7,12 @@
     <string name="hello_string">Hello,android</string>
     <string name="hello_sex">男</string>
     <string name="hello_sex2">女</string>
+    <string name="shenGao">身高：</string>
+    <string name="tiZhong">体重：</string>
+    <string name="shenGaoShuRu">请在此处输入身高：</string>
+    <string name="tiZhongShuRu">请在此处输入体重：</string>
+    <string name="app_name2">BMI体重计算题</string>
+    <string name="jisuan">计算</string>
     
 
 </resources>
